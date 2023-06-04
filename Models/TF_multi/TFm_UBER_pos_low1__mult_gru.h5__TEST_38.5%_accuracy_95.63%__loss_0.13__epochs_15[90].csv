@@ -1,0 +1,20 @@
+loss	accuracy	val_loss	val_accuracy
+0.635	0.683	0.711	0.637
+0.479	0.773	0.22	0.945
+0.429	0.811	1.201	0.386
+0.376	0.842	0.221	0.938
+0.326	0.865	0.701	0.675
+0.267	0.888	0.447	0.858
+0.258	0.888	0.443	0.829
+0.239	0.906	1.211	0.547
+0.215	0.906	0.874	0.694
+0.18	0.932	0.476	0.839
+0.197	0.926	0.682	0.749
+0.161	0.941	0.362	0.9
+0.149	0.939	0.446	0.886
+0.171	0.933	0.444	0.874
+0.137	0.947	0.409	0.891
+0.132	0.956	0.358	0.91
+
+Columns TFm_UBER_pos_low1__mult_gru.h5:
+Date, buy_sell_point, vola_NATR, ti_force_index_13, sti_VAR, volu_EFI_13, vola_ATR, sti_STDDEV, mtum_PLUS_DM, Volume, vola_THERMOma_20_2_05, volu_PVOL, mtum_DMP_14, mtum_STCmacd_10_12_26_05, vola_TRUERANGE_1, ti_coppock_14_11_10, sti_LINEARREG_SLOPE, mtum_ROCP, mtum_DX, olap_BBAND_dif, ti_chaikin_10_3, tend_renko_TR, mtum_BULLP_13, mtum_ROCR100, sti_LINEARREG_ANGLE, sti_ENTP_10, vola_TRANGE, mtum_ROCR, volu_Chaikin_ADOSC, mtum_MACD_fix_signal, mtum_ROC, mtum_STC_10_12_26_05, mtum_PVO_12_26_9, mtum_BIAS_SMA_26, mtum_MACD_signal, mtum_MINUS_DM, mtum_STCstoch_10_12_26_05, has_preMarket, mtum_DMN_14, mtum_MOM, mtum_CG_10, mtum_PVOs_12_26_9, mtum_AO_5_34, mtum_ADXR, tend_renko_ATR, mtum_MACD_fix, mtum_PPO, vola_THERMO_20_2_05, mtum_MACD, mtum_APO, mtum_BEARP_13, ti_konk_avg, mtum_ADX, NQ_Volume, vola_UI_14, mtum_MACD_ext_signal, tend_VHF_28, ti_choppiness_14, mtum_MACD_ext, mtum_SMI_5_20_5, tend_renko_brick, mtum_RSI, mtum_MINUS_DI, ti_ease_of_movement_14, sti_KURT_30, mtum_SMIs_5_20_5, tend_ll, mtum_RSX_14, olap_VMAP, tend_lh, mtum_QQE_14_5_4236_RSIMA, mtum_PVOh_12_26_9, mtum_PLUS_DI, NQ_per_Volume, cdl_DOJI, volu_PVT, cdl_LONGLEGGEDDOJI, cycl_HT_TRENDMODE, cycl_PHASOR_inph, vola_THERMOl_20_2_05, ti_vortex_neg_14, mtum_BR_26, mtum_CMO, mtum_ER_10, mtum_MACD_ext_list, vola_KCLe_20_2, vola_THERMOs_20_2_05, ti_mass_index_9_25, ti_konk_rest, sti_TOS_STDEVALL_U_3, tend_hl_crash, wood_r1, NQ_Close, sti_TOS_STDEVALL_U_2, mcrh_EMA_20_TEMA_50, mcrh_TEMA_20_DEMA_50, mcrh_TEMA_10_DEMA_50, mcrh_T3_50_SMA_100, mcrh_KAMA_5_KAMA_50, mcrh_KAMA_20_TEMA_100, mcrh_KAMA_10_EMA_20, mcrh_EMA_10_TEMA_50, sti_TOS_STDEVALL_U_1, ma_TEMA_10, cdl_TAKURI, cdl_RICKSHAWMAN, cdl_HAMMER, cdl_DRAGONFLYDOJI, NQ_SMA_20, mcrh_TRIMA_10_EMA_50, mtum_AROON_up, mtum_AR_26, mtum_CFO_9, mtum_FISHERTs_9_1, mtum_MACD_fix_list, mtum_MFI, mtum_PGO_14, NQ_SMA_100, mtum_QQEl_14_5_4236, mtum_STOCH_Fa_crash, perf_ha, perf_z_30_1, sti_TOS_STDEVALL_LR, sti_TOS_STDEVALL_L_1, sti_TOS_STDEVALL_L_2, sti_TOS_STDEVALL_L_3, wood_s3

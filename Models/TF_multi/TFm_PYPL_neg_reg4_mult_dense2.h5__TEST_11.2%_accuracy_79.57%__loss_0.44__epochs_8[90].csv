@@ -1,0 +1,13 @@
+loss	accuracy	val_loss	val_accuracy
+0.74	0.624	0.941	0.435
+0.578	0.677	0.573	0.733
+0.533	0.713	0.386	0.907
+0.507	0.741	0.764	0.53
+0.496	0.744	0.681	0.572
+0.48	0.742	0.5	0.77
+0.457	0.788	0.727	0.553
+0.407	0.805	0.413	0.886
+0.439	0.796	0.455	0.853
+
+Columns TFm_PYPL_neg_reg4_mult_dense2.h5:
+Date, buy_sell_point, tend_renko_ATR, NQ_Close, vola_THERMOma_20_2_05, vola_NATR, mtum_PVOh_12_26_9, NQ_SMA_20, tend_hl, vola_ATR, tend_lh, NQ_per_Volume, tend_hh, vola_TRANGE, vola_TRUERANGE_1, NQ_SMA_100, Volume, has_preMarket, vola_THERMO_20_2_05, volu_PVI_1, vola_HWU, volu_PVOL, volu_Chaikin_ADOSC, tend_renko_TR, ti_chaikin_10_3, mtum_DMN_14, olap_BBAND_dif, tend_PSARr_002_02, olap_VMAP, vola_THERMOl_20_2_05, mtum_APO, tend_renko_brick, mtum_MINUS_DM, ti_ease_of_movement_14, tend_ll, mcrh_SMA_50_KAMA_100, olap_SAREXT, fibo_r3, ti_mass_index_9_25, mtum_PPO, mtum_PVO_12_26_9, ma_TRIMA_50, ti_coppock_14_11_10, mtum_STCmacd_10_12_26_05, ma_SMA_50, olap_BBAND_UPPER, volu_NVI_1, clas_r2, clas_r3, olap_HWMA_02_01_01, sti_TOS_STDEVALL_L_2, sti_TOS_STDEVALL_L_1, ti_donchian_upper_20, sti_STDDEV, ti_kelt_20_upper, mcrh_T3_20_KAMA_100, mcrh_EMA_20_TEMA_100, sti_CORREL, cdl_ADVANCEBLOCK, ichi_senkou_a, vola_THERMOs_20_2_05, trad_r2, trad_r3, wood_r3, ma_EMA_50, ichi_senkou_b, vola_HWM, cycl_HT_TRENDMODE, mtum_MACD_ext_signal, mtum_MACD_signal, fibo_r2, vola_UI_14, volu_Chaikin_AD, sti_VAR, olap_SAR, sti_TOS_STDEVALL_L_3, sti_TSF, sti_TOS_STDEVALL_U_3, mtum_td_seq_sig, olap_BBAND_MIDDLE, cdl_MATCHINGLOW, cdl_GRAVESTONEDOJI, sti_TOS_STDEVALL_U_2, mtum_MACD_ext, mtum_MINUS_DI, mtum_DMP_14, sti_TOS_STDEVALL_U_1, mcrh_EMA_50_KAMA_100, sti_BETA, ti_konk_gre_bl_crash, sti_LINEARREG, ma_WMA_10, sti_TOS_STDEVALL_LR, wood_r2, ma_TEMA_5, ti_acc_dist, vola_HWL, vola_KCUe_20_2, mtum_AR_26, mtum_BEARP_13, mtum_BIAS_SMA_26, ma_DEMA_5, ichi_tenkan_sen

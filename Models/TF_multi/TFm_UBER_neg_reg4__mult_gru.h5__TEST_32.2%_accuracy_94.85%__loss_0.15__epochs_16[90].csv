@@ -1,0 +1,21 @@
+loss	accuracy	val_loss	val_accuracy
+0.685	0.65	0.498	0.789
+0.613	0.659	0.477	0.754
+0.509	0.738	0.705	0.597
+0.427	0.81	1.138	0.505
+0.413	0.825	0.21	0.886
+0.333	0.856	0.196	0.934
+0.284	0.887	0.817	0.64
+0.277	0.883	0.147	0.95
+0.239	0.904	1.313	0.486
+0.235	0.913	0.149	0.945
+0.188	0.936	0.318	0.865
+0.213	0.921	0.296	0.884
+0.159	0.949	0.232	0.915
+0.158	0.942	0.439	0.846
+0.172	0.941	0.2	0.934
+0.118	0.961	0.17	0.945
+0.147	0.949	0.157	0.948
+
+Columns TFm_UBER_neg_reg4__mult_gru.h5:
+Date, buy_sell_point, sti_KURT_30, has_preMarket, NQ_per_Volume, mtum_DMN_14, mcrh_EMA_10_TEMA_50, mtum_MINUS_DM, vola_TRANGE, tend_renko_TR, NQ_SMA_100, mcrh_TRIMA_50_SMA_100, vola_TRUERANGE_1, NQ_Volume, mtum_PVO_12_26_9, cdl_IDENTICAL3CROWS, mtum_QQEs_14_5_4236, vola_THERMO_20_2_05, mtum_MACD_ext_signal, volu_EFI_13, vola_THERMOs_20_2_05, cdl_MATCHINGLOW, mtum_QQEl_14_5_4236, tend_hl, mcrh_DEMA_10_EMA_50, ti_force_index_13, mcrh_TEMA_20_EMA_50, ti_coppock_14_11_10, mtum_ER_10, mcrh_WMA_5_DEMA_10, vola_UI_14, mtum_STCmacd_10_12_26_05, sti_ENTP_10, mtum_APO, mtum_MACD_fix_signal, mcrh_T3_20_TEMA_100, mcrh_TEMA_10_EMA_50, mcrh_TEMA_10_WMA_100, sti_LINEARREG_SLOPE, sti_TOS_STDEVALL_L_1, sti_TOS_STDEVALL_U_1, sti_TOS_STDEVALL_U_2, mtum_J_9_3, ichi_senkou_a, vola_THERMOl_20_2_05, cycl_EBSW_40_10, NQ_SMA_20, mtum_PPO, mtum_MACD_signal, mtum_BIAS_SMA_26, NQ_Close, mtum_PVOh_12_26_9, tend_PSARaf_002_02, vola_NATR, ti_konk_bl, ti_konk_avg, ti_ease_of_movement_14, ti_chaikin_10_3, tend_renko_brick, sti_TOS_STDEVALL_L_3, mtum_PVOs_12_26_9, sti_LINEARREG_ANGLE, olap_VMAP, mtum_murrey_math, mtum_WILLIAMS_R, mtum_STCstoch_10_12_26_05, mtum_STC_10_12_26_05, sti_TOS_STDEVALL_LR, volu_PVT, ichi_senkou_b, mcrh_KAMA_20_DEMA_100, mcrh_TEMA_10_TEMA_50, mtum_MACD, olap_BBAND_dif, mtum_MACD_fix, vola_ATR, mtum_MINUS_DI, tend_PSARs_002_02, mtum_MOM, mcrh_EMA_10_KAMA_50, mcrh_TRIMA_5_KAMA_50, tend_lh, mcrh_KAMA_10_SMA_20, mtum_ROC, mtum_ROCP, mtum_ROCR, mtum_ROCR100, mtum_SMI_5_20_5, ma_SMA_50, ma_T3_10, sti_TOS_STDEVALL_U_3, mtum_MACD_ext, mcrh_TEMA_20_KAMA_50, mtum_BEARP_13, volu_PVR, mcrh_WMA_10_KAMA_50, volu_PVOL, sti_TOS_STDEVALL_L_2, sti_CORREL, volu_Chaikin_ADOSC, mtum_AO_5_34, sti_BETA, mtum_AROON_down, mcrh_DEMA_10_TEMA_50, mcrh_KAMA_50_KAMA_100, mcrh_TRIMA_50_EMA_100, mtum_BR_26, mtum_BULLP_13, per_Volume, mtum_CG_10, mtum_CMO

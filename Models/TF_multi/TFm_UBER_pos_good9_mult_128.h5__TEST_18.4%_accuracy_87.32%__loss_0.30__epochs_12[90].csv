@@ -1,0 +1,17 @@
+loss	accuracy	val_loss	val_accuracy
+0.688	0.621	0.364	0.925
+0.634	0.648	0.69	0.614
+0.586	0.7	0.699	0.627
+0.553	0.715	0.631	0.686
+0.527	0.737	0.834	0.48
+0.5	0.753	0.39	0.816
+0.467	0.78	0.635	0.641
+0.427	0.813	0.335	0.845
+0.4	0.824	0.753	0.605
+0.381	0.839	0.524	0.727
+0.348	0.849	0.502	0.734
+0.332	0.869	0.621	0.709
+0.297	0.873	0.204	0.92
+
+Columns TFm_UBER_pos_good9_mult_128.h5:
+Date, buy_sell_point, vola_NATR, ti_force_index_13, sti_VAR, volu_EFI_13, vola_ATR, sti_STDDEV, mtum_PLUS_DM, Volume, vola_THERMOma_20_2_05, volu_PVOL, mtum_DMP_14, mtum_STCmacd_10_12_26_05, vola_TRUERANGE_1, ti_coppock_14_11_10, sti_LINEARREG_SLOPE, mtum_ROCP, mtum_DX, olap_BBAND_dif, ti_chaikin_10_3, tend_renko_TR, mtum_BULLP_13, mtum_ROCR100, sti_LINEARREG_ANGLE, sti_ENTP_10, vola_TRANGE, mtum_ROCR, volu_Chaikin_ADOSC, mtum_MACD_fix_signal, mtum_ROC, mtum_STC_10_12_26_05, mtum_PVO_12_26_9, mtum_BIAS_SMA_26, mtum_MACD_signal, mtum_MINUS_DM, mtum_STCstoch_10_12_26_05, has_preMarket, mtum_DMN_14, mtum_MOM, mtum_CG_10, mtum_PVOs_12_26_9, mtum_AO_5_34, mtum_ADXR, tend_renko_ATR, mtum_MACD_fix, mtum_PPO, vola_THERMO_20_2_05, mtum_MACD, mtum_APO, mtum_BEARP_13, ti_konk_avg, mtum_ADX, NQ_Volume, vola_UI_14

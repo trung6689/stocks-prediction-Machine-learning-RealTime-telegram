@@ -1,0 +1,16 @@
+loss	accuracy	val_loss	val_accuracy
+0.682	0.62	0.653	0.803
+0.623	0.658	0.578	0.765
+0.592	0.68	0.408	0.876
+0.544	0.719	0.705	0.586
+0.52	0.739	0.338	0.88
+0.497	0.751	0.61	0.638
+0.482	0.765	0.665	0.64
+0.455	0.784	0.68	0.64
+0.445	0.793	0.315	0.855
+0.422	0.804	0.532	0.713
+0.4	0.829	0.486	0.765
+0.385	0.827	0.335	0.828
+
+Columns TFm_PYPL_neg_vgood16_mult_conv2.h5:
+Date, buy_sell_point, tend_renko_ATR, NQ_Close, vola_THERMOma_20_2_05, vola_NATR, mtum_PVOh_12_26_9, NQ_SMA_20, tend_hl, vola_ATR, tend_lh, NQ_per_Volume

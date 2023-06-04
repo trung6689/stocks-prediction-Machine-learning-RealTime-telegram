@@ -74,6 +74,7 @@ def get_best_columns_to_train(cleaned_df, op_buy_sell : _KEYS_DICT.Op_buy_sell ,
     def get_correlation_corrwith():
         global df
         print(" Correlation Matrix with Heatmap ")
+        df['Date'] = pd.to_datetime(df['Date']).map(pd.Timestamp.timestamp)
         dcf = df.corrwith(df[Y_TARGET])
         dcf = dcf.abs().sort_values(ascending=False)[:num_best]
         df_result['corrwith'] = dcf.index

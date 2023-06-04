@@ -7,7 +7,7 @@ from keras.backend import set_session
 physical_devices = tf.config.experimental.list_physical_devices('GPU')
 tf.config.experimental.set_memory_growth(physical_devices[0], True)
 # Assume that you have 12GB of GPU memory and want to allocate ~4GB:
-gpu_options = tf.compat.v1.GPUOptions(per_process_gpu_memory_fraction=0.333)
+gpu_options = tf.compat.v1.GPUOptions(per_process_gpu_memory_fraction=0.8)
 sess = tf.compat.v1.Session(config=tf.compat.v1.ConfigProto(gpu_options=gpu_options))
 
 # gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=0.333)

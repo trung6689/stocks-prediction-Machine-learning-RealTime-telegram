@@ -1,0 +1,13 @@
+loss	accuracy	val_loss	val_accuracy
+0.705	0.612	0.751	0.304
+0.639	0.627	0.682	0.53
+0.611	0.672	0.655	0.692
+0.59	0.698	0.651	0.699
+0.561	0.742	0.538	0.776
+0.53	0.759	0.608	0.671
+0.506	0.766	0.509	0.76
+0.495	0.786	0.597	0.63
+0.494	0.779	0.595	0.653
+
+Columns TFm_PYPL_neg_good9__simp_cordo.h5:
+Date, buy_sell_point, tend_renko_ATR, NQ_Close, vola_THERMOma_20_2_05, vola_NATR, mtum_PVOh_12_26_9, NQ_SMA_20, tend_hl, vola_ATR, tend_lh, NQ_per_Volume, tend_hh, vola_TRANGE, vola_TRUERANGE_1, NQ_SMA_100, Volume, has_preMarket, vola_THERMO_20_2_05, volu_PVI_1, vola_HWU, volu_PVOL, volu_Chaikin_ADOSC, tend_renko_TR, ti_chaikin_10_3, mtum_DMN_14, olap_BBAND_dif, tend_PSARr_002_02, olap_VMAP, vola_THERMOl_20_2_05, mtum_APO, tend_renko_brick, mtum_MINUS_DM, ti_ease_of_movement_14, tend_ll, mcrh_SMA_50_KAMA_100, olap_SAREXT, fibo_r3, ti_mass_index_9_25, mtum_PPO, mtum_PVO_12_26_9, ma_TRIMA_50, ti_coppock_14_11_10, mtum_STCmacd_10_12_26_05, ma_SMA_50, olap_BBAND_UPPER, volu_NVI_1, clas_r2, clas_r3

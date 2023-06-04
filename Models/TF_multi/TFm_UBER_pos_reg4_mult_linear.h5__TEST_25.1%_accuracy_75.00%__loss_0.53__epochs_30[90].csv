@@ -1,0 +1,35 @@
+loss	accuracy	val_loss	val_accuracy
+0.716	0.612	0.217	0.948
+0.661	0.638	0.214	0.948
+0.629	0.642	0.282	0.948
+0.611	0.662	0.497	0.816
+0.6	0.673	1.058	0.291
+0.597	0.668	0.412	0.889
+0.584	0.691	0.555	0.73
+0.583	0.686	1.355	0.18
+0.567	0.71	0.425	0.841
+0.573	0.702	0.228	0.948
+0.578	0.71	0.361	0.898
+0.565	0.711	1.368	0.216
+0.557	0.709	0.35	0.898
+0.56	0.704	0.792	0.493
+0.552	0.727	1.091	0.311
+0.552	0.717	1.087	0.32
+0.547	0.727	0.246	0.945
+0.55	0.721	1.428	0.205
+0.543	0.73	1.56	0.166
+0.553	0.72	0.762	0.541
+0.546	0.732	0.258	0.936
+0.549	0.729	1.371	0.241
+0.541	0.732	1.952	0.127
+0.554	0.727	1.414	0.236
+0.534	0.733	0.439	0.855
+0.537	0.743	0.602	0.702
+0.534	0.732	0.662	0.668
+0.53	0.751	0.567	0.73
+0.528	0.738	0.404	0.866
+0.523	0.745	0.302	0.918
+0.534	0.75	0.851	0.507
+
+Columns TFm_UBER_pos_reg4_mult_linear.h5:
+Date, buy_sell_point, vola_NATR, ti_force_index_13, sti_VAR, volu_EFI_13, vola_ATR, sti_STDDEV, mtum_PLUS_DM, Volume, vola_THERMOma_20_2_05, volu_PVOL, mtum_DMP_14, mtum_STCmacd_10_12_26_05, vola_TRUERANGE_1, ti_coppock_14_11_10, sti_LINEARREG_SLOPE, mtum_ROCP, mtum_DX, olap_BBAND_dif, ti_chaikin_10_3, tend_renko_TR, mtum_BULLP_13, mtum_ROCR100, sti_LINEARREG_ANGLE, sti_ENTP_10, vola_TRANGE, mtum_ROCR, volu_Chaikin_ADOSC, mtum_MACD_fix_signal, mtum_ROC, mtum_STC_10_12_26_05, mtum_PVO_12_26_9, mtum_BIAS_SMA_26, mtum_MACD_signal, mtum_MINUS_DM, mtum_STCstoch_10_12_26_05, has_preMarket, mtum_DMN_14, mtum_MOM, mtum_CG_10, mtum_PVOs_12_26_9, mtum_AO_5_34, mtum_ADXR, tend_renko_ATR, mtum_MACD_fix, mtum_PPO, vola_THERMO_20_2_05, mtum_MACD, mtum_APO, mtum_BEARP_13, ti_konk_avg, mtum_ADX, NQ_Volume, vola_UI_14, mtum_MACD_ext_signal, tend_VHF_28, ti_choppiness_14, mtum_MACD_ext, mtum_SMI_5_20_5, tend_renko_brick, mtum_RSI, mtum_MINUS_DI, ti_ease_of_movement_14, sti_KURT_30, mtum_SMIs_5_20_5, tend_ll, mtum_RSX_14, olap_VMAP, tend_lh, mtum_QQE_14_5_4236_RSIMA, mtum_PVOh_12_26_9, mtum_PLUS_DI, NQ_per_Volume, cdl_DOJI, volu_PVT, cdl_LONGLEGGEDDOJI, cycl_HT_TRENDMODE, cycl_PHASOR_inph, vola_THERMOl_20_2_05, ti_vortex_neg_14, mtum_BR_26, mtum_CMO, mtum_ER_10, mtum_MACD_ext_list

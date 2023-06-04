@@ -1,0 +1,18 @@
+loss	accuracy	val_loss	val_accuracy
+0.771	0.561	0.543	0.797
+0.677	0.595	0.607	0.723
+0.655	0.618	0.701	0.622
+0.644	0.636	0.635	0.689
+0.638	0.641	0.62	0.707
+0.615	0.659	0.714	0.626
+0.604	0.668	0.556	0.752
+0.594	0.683	0.697	0.628
+0.575	0.708	0.572	0.75
+0.569	0.71	0.574	0.779
+0.537	0.732	0.491	0.822
+0.53	0.751	0.577	0.734
+0.522	0.741	0.445	0.849
+0.503	0.78	0.41	0.856
+
+Columns TFm_UBER_neg_vgood16_mult_64.h5:
+Date, buy_sell_point, sti_KURT_30, has_preMarket, NQ_per_Volume, mtum_DMN_14, mcrh_EMA_10_TEMA_50, mtum_MINUS_DM, vola_TRANGE, tend_renko_TR, NQ_SMA_100, mcrh_TRIMA_50_SMA_100, vola_TRUERANGE_1, NQ_Volume

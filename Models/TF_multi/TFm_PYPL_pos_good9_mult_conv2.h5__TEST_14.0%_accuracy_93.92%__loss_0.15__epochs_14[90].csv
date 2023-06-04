@@ -1,0 +1,19 @@
+loss	accuracy	val_loss	val_accuracy
+0.829	0.614	0.757	0.52
+0.645	0.652	0.539	0.742
+0.59	0.706	0.687	0.638
+0.522	0.757	0.933	0.552
+0.472	0.781	0.735	0.595
+0.382	0.834	0.378	0.817
+0.339	0.851	0.957	0.624
+0.294	0.878	0.696	0.686
+0.275	0.875	0.583	0.753
+0.245	0.9	0.272	0.903
+0.198	0.919	0.325	0.905
+0.188	0.917	0.3	0.937
+0.14	0.946	0.301	0.934
+0.151	0.937	0.314	0.912
+0.149	0.939	0.473	0.826
+
+Columns TFm_PYPL_pos_good9_mult_conv2.h5:
+Date, buy_sell_point, NQ_SMA_100, NQ_SMA_20, mcrh_SMA_50_KAMA_100, NQ_Close, ti_ease_of_movement_14, has_preMarket, tend_renko_TR, ti_konk_bl_avg_crash, olap_BBAND_dif, tend_PSARr_002_02, mtum_AROON_down, vola_TRUERANGE_1, tend_renko_ATR, NQ_per_Volume, vola_NATR, tend_hl, mtum_APO, vola_ATR, sti_TOS_STDEVALL_U_2, mcrh_TEMA_5_ti_h20, vola_TRANGE, ti_acc_dist, tend_renko_brick, vola_HWU, ti_vortex_pos_14, mtum_PPO, cdl_DRAGONFLYDOJI, cdl_TAKURI, tend_lh, cdl_MATCHINGLOW, mcrh_SMA_50_SMA_100, mcrh_EMA_10_SMA_100, NQ_Volume, sti_TOS_STDEVALL_LR, olap_VMAP, ti_coppock_14_11_10, vola_HWM, sti_TOS_STDEVALL_U_1, cdl_GRAVESTONEDOJI, vola_THERMOs_20_2_05, mcrh_KAMA_10_DEMA_50, mtum_STC_10_12_26_05, vola_THERMOl_20_2_05, volu_Chaikin_AD, mtum_STCmacd_10_12_26_05, mtum_PVOh_12_26_9

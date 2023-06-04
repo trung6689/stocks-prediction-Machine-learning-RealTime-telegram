@@ -1,0 +1,20 @@
+h5py._conv - [DEBUG]{MainThread} - <module>() - Creating converter from 7 to 5
+h5py._conv - [DEBUG]{MainThread} - <module>() - Creating converter from 5 to 7
+h5py._conv - [DEBUG]{MainThread} - <module>() - Creating converter from 7 to 5
+h5py._conv - [DEBUG]{MainThread} - <module>() - Creating converter from 5 to 7
+matplotlib - [DEBUG]{MainThread} - wrapper() - matplotlib data path: C:\Users\PC\AppData\Local\Programs\Python\Python310\lib\site-packages\matplotlib\mpl-data
+matplotlib - [DEBUG]{MainThread} - wrapper() - CONFIGDIR=C:\Users\PC\.matplotlib
+matplotlib - [DEBUG]{MainThread} - <module>() - interactive is False
+matplotlib - [DEBUG]{MainThread} - <module>() - platform is win32
+matplotlib - [DEBUG]{MainThread} - wrapper() - CACHEDIR=C:\Users\PC\.matplotlib
+matplotlib.font_manager - [DEBUG]{MainThread} - _load_fontmanager() - Using fontManager instance from C:\Users\PC\.matplotlib\fontlist-v330.json
+h5py._conv - [DEBUG]{MainThread} - <module>() - Creating converter from 7 to 5
+h5py._conv - [DEBUG]{MainThread} - <module>() - Creating converter from 5 to 7
+h5py._conv - [DEBUG]{MainThread} - <module>() - Creating converter from 7 to 5
+h5py._conv - [DEBUG]{MainThread} - <module>() - Creating converter from 5 to 7
+matplotlib - [DEBUG]{MainThread} - wrapper() - matplotlib data path: C:\Users\PC\AppData\Local\Programs\Python\Python310\lib\site-packages\matplotlib\mpl-data
+matplotlib - [DEBUG]{MainThread} - wrapper() - CONFIGDIR=C:\Users\PC\.matplotlib
+matplotlib - [DEBUG]{MainThread} - <module>() - interactive is False
+matplotlib - [DEBUG]{MainThread} - <module>() - platform is win32
+matplotlib - [DEBUG]{MainThread} - wrapper() - CACHEDIR=C:\Users\PC\.matplotlib
+matplotlib.font_manager - [DEBUG]{MainThread} - _load_fontmanager() - Using fontManager instance from C:\Users\PC\.matplotlib\fontlist-v330.json

@@ -1,0 +1,21 @@
+loss	accuracy	val_loss	val_accuracy
+0.694	0.644	0.981	0.092
+0.569	0.693	0.301	0.851
+0.462	0.759	0.393	0.81
+0.396	0.826	0.427	0.742
+0.339	0.856	0.265	0.891
+0.262	0.899	0.715	0.694
+0.229	0.907	0.42	0.841
+0.23	0.9	0.252	0.917
+0.15	0.941	1.29	0.64
+0.174	0.936	0.639	0.777
+0.126	0.956	0.785	0.744
+0.133	0.948	0.487	0.839
+0.104	0.959	1.198	0.718
+0.109	0.959	0.303	0.924
+0.089	0.969	0.909	0.73
+0.078	0.972	0.433	0.889
+0.08	0.976	0.433	0.912
+
+Columns TFm_PYPL_pos_reg4_mult_lstm.h5:
+Date, buy_sell_point, NQ_SMA_100, NQ_SMA_20, mcrh_SMA_50_KAMA_100, NQ_Close, ti_ease_of_movement_14, has_preMarket, tend_renko_TR, ti_konk_bl_avg_crash, olap_BBAND_dif, tend_PSARr_002_02, mtum_AROON_down, vola_TRUERANGE_1, tend_renko_ATR, NQ_per_Volume, vola_NATR, tend_hl, mtum_APO, vola_ATR, sti_TOS_STDEVALL_U_2, mcrh_TEMA_5_ti_h20, vola_TRANGE, ti_acc_dist, tend_renko_brick, vola_HWU, ti_vortex_pos_14, mtum_PPO, cdl_DRAGONFLYDOJI, cdl_TAKURI, tend_lh, cdl_MATCHINGLOW, mcrh_SMA_50_SMA_100, mcrh_EMA_10_SMA_100, NQ_Volume, sti_TOS_STDEVALL_LR, olap_VMAP, ti_coppock_14_11_10, vola_HWM, sti_TOS_STDEVALL_U_1, cdl_GRAVESTONEDOJI, vola_THERMOs_20_2_05, mcrh_KAMA_10_DEMA_50, mtum_STC_10_12_26_05, vola_THERMOl_20_2_05, volu_Chaikin_AD, mtum_STCmacd_10_12_26_05, mtum_PVOh_12_26_9, mcrh_WMA_5_TEMA_50, mcrh_TEMA_5_DEMA_10, tend_PSARl_002_02, mtum_MACD_fix, mtum_PVO_12_26_9, mtum_MACD_ext, sti_TOS_STDEVALL_L_2, sti_TOS_STDEVALL_L_3, mcrh_TEMA_5_TEMA_10, olap_HWMA_02_01_01, mcrh_TRIMA_10_SMA_100, tend_hh, tend_ll, mtum_MACD_signal, mtum_STCstoch_10_12_26_05, mtum_MINUS_DM, sti_BETA, ichi_senkou_a, ichi_tenkan_sen, ma_WMA_10, mcrh_DEMA_20_SMA_100, vola_UI_14, fibo_s3, fibo_s2, tend_PSARs_002_02, mtum_AR_26, fibo_r3, mtum_BIAS_SMA_26, mtum_DMN_14, fibo_r2, mtum_MACD, mtum_MACD_ext_signal, cycl_SINE_lead, trad_r2, ichi_isin_cloud, clas_s2, clas_s1, clas_r3, clas_r2, tend_LDECAY_5, cdl_INVERTEDHAMMER, sti_TSF, mtum_td_seq, olap_BBAND_UPPER, cdl_HAMMER, olap_SAREXT, sti_TOS_STDEVALL_L_1, sti_LINEARREG, per_Volume, clas_s3, vola_THERMO_20_2_05, mcrh_WMA_10_T3_100, ma_TEMA_5, mcrh_KAMA_5_EMA_10, ti_mass_index_9_25, mcrh_SMA_50_WMA_100, ti_konk_rest, mcrh_EMA_10_KAMA_20, mcrh_T3_5_T3_100, ti_konk_avg, vola_HWL, mcrh_TEMA_20_T3_100, ma_TRIMA_10, ti_konk_bro, mcrh_WMA_10_SMA_100, ma_DEMA_5, ma_SMA_50, vola_KCLe_20_2, ma_SMA_10, mcrh_TRIMA_50_SMA_100

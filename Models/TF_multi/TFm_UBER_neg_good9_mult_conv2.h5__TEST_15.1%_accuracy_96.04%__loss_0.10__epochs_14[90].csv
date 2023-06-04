@@ -1,0 +1,19 @@
+loss	accuracy	val_loss	val_accuracy
+0.778	0.613	0.3	0.93
+0.718	0.61	0.341	0.9
+0.592	0.688	0.556	0.673
+0.526	0.741	0.573	0.68
+0.451	0.787	0.729	0.585
+0.368	0.844	0.563	0.684
+0.322	0.867	1.047	0.503
+0.264	0.896	0.696	0.64
+0.215	0.915	0.264	0.891
+0.218	0.911	0.186	0.942
+0.167	0.945	0.207	0.93
+0.128	0.954	0.213	0.928
+0.117	0.964	0.251	0.898
+0.105	0.964	0.197	0.928
+0.103	0.96	0.201	0.93
+
+Columns TFm_UBER_neg_good9_mult_conv2.h5:
+Date, buy_sell_point, sti_KURT_30, has_preMarket, NQ_per_Volume, mtum_DMN_14, mcrh_EMA_10_TEMA_50, mtum_MINUS_DM, vola_TRANGE, tend_renko_TR, NQ_SMA_100, mcrh_TRIMA_50_SMA_100, vola_TRUERANGE_1, NQ_Volume, mtum_PVO_12_26_9, cdl_IDENTICAL3CROWS, mtum_QQEs_14_5_4236, vola_THERMO_20_2_05, mtum_MACD_ext_signal, volu_EFI_13, vola_THERMOs_20_2_05, cdl_MATCHINGLOW, mtum_QQEl_14_5_4236, tend_hl, mcrh_DEMA_10_EMA_50, ti_force_index_13, mcrh_TEMA_20_EMA_50, ti_coppock_14_11_10, mtum_ER_10, mcrh_WMA_5_DEMA_10, vola_UI_14, mtum_STCmacd_10_12_26_05, sti_ENTP_10, mtum_APO, mtum_MACD_fix_signal, mcrh_T3_20_TEMA_100, mcrh_TEMA_10_EMA_50, mcrh_TEMA_10_WMA_100, sti_LINEARREG_SLOPE, sti_TOS_STDEVALL_L_1, sti_TOS_STDEVALL_U_1, sti_TOS_STDEVALL_U_2, mtum_J_9_3, ichi_senkou_a, vola_THERMOl_20_2_05, cycl_EBSW_40_10, NQ_SMA_20, mtum_PPO

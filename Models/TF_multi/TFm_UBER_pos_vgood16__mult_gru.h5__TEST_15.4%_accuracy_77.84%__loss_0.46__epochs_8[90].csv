@@ -1,0 +1,13 @@
+loss	accuracy	val_loss	val_accuracy
+0.677	0.574	1.033	0.092
+0.62	0.648	0.464	0.84
+0.576	0.701	0.357	0.908
+0.535	0.733	0.373	0.845
+0.513	0.747	0.763	0.501
+0.484	0.766	0.759	0.571
+0.484	0.767	0.727	0.582
+0.473	0.767	0.682	0.602
+0.463	0.778	0.623	0.625
+
+Columns TFm_UBER_pos_vgood16__mult_gru.h5:
+Date, buy_sell_point, vola_NATR, ti_force_index_13, sti_VAR, volu_EFI_13, vola_ATR, sti_STDDEV, mtum_PLUS_DM, Volume, vola_THERMOma_20_2_05, volu_PVOL, mtum_DMP_14, mtum_STCmacd_10_12_26_05, vola_TRUERANGE_1, ti_coppock_14_11_10, sti_LINEARREG_SLOPE, mtum_ROCP, mtum_DX, olap_BBAND_dif

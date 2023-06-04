@@ -1,0 +1,25 @@
+Bạn có thể thực hiện sửa đổi mã nguồn của hàm mcgd trong thư viện pandas-ta. Để thực hiện điều này, hãy làm theo các bước sau:
+
+Đầu tiên, tìm thư mục chứa thư viện pandas-ta. Bạn có thể tìm kiếm trên máy của mình hoặc sử dụng đoạn mã sau để in ra đường dẫn của thư viện pandas_ta:
+import pandas_ta as ta
+print(ta.__file__)
+Mở tệp mcgd.py từ thư mục đã tìm được ở trên. Tệp này chứa mã nguồn của hàm mcgd.
+
+Tìm hàm mcgd trong tệp và thực hiện các chỉnh sửa cần thiết để giải quyết vấn đề bạn đang gặp phải. Hãy lưu ý rằng lỗi bạn đang gặp phải có thể liên quan đến dòng sau:
+
+mcg_ds = close[:1].append(mcg_cell[1:])
+Trong trường hợp bạn muốn thay đổi cách thức gắn kết Series, bạn có thể sử dụng phương pháp concat() của pandas thay vì append():
+
+import pandas as pd
+mcg_ds = pd.concat([close[:1], mcg_cell[1:]])
+Lưu tệp mcgd.py sau khi hoàn tất chỉnh sửa.
+
+Chạy lại mã nguồn của bạn để kiểm tra xem lỗi đã được giải quyết hay chưa.
+
+Hãy lưu ý rằng việc chỉnh sửa mã nguồn của thư viện bên thứ ba không được khuyến khích, vì nó có thể dẫn đến các vấn đề không mong muốn khi cập nhật thư viện hoặc chia sẻ mã nguồn của bạn với người khác. Nếu có thể, bạn nên liên hệ với nhà phát triển hoặc tìm kiếm giải pháp thay thế. Tuy nhiên, n
+
+
+Fix zlib
+Copy C:\Program Files\NVIDIA Corporation\Nsight Systems 2023.1.2\host-windows-x64\zlib.dll
+----> C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.1\bin
+đổi tên zlibwapi.dll
